@@ -4,7 +4,6 @@ node{
     }
     stage('Compile Package'){
         def mvnHome = tool name: 'Maven', type: 'maven'
-        def javaHome = tool name: 'Java', type: 'jdk'
         sh "${mvnHome}/bin/mvn package"
     }
     stage('Deploy to Tomcat'){ 
