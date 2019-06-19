@@ -1,6 +1,15 @@
 <html>
+<head>
+<style>
+p.double {border-style: double;}
+</style>
+</head>
+
 <body>
-<h2>CALCULATOR</h2>
+<p class="double"><font size="7"><font color="Blue">Welcome to Kanagu</font></p>
+<font color="red"><font size="6"><center>CALCULATOR</center></font>
+</body>
+</html>
 
 
 <%
