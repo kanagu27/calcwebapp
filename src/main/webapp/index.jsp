@@ -6,7 +6,7 @@ p.double {border-style: double;}
 </head>
 
 <body>
-<p class="double"><font size="7"><font color="Blue">Welcome to Kanagu</font></p>
+<p class="double"><font size="7"><font color="Blue">Welcome to Kanagu Calc</font></p>
 <font color="red"><font size="6"><center>CALCULATOR</center></font>
 </body>
 </html>
